@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 15.5//EN
+N:Donth;Markus;;;
+FN:Markus Donth
+ORG:Bültmann GmbH;
+TITLE:Sales / Project Management
+EMAIL;type=INTERNET;type=WORK;type=pref:markus.donth@bueltmann.com
+TEL;type=WORK;type=VOICE;type=pref:+49 2394 18258
+TEL;type=CELL;type=VOICE:+49 152 23031936
+ADR;type=WORK;type=pref:;;Hönnestraße 31;Neuenrade;;58809;Germany
+NOTE:\n 
+item1.URL;type=pref:www.bueltmann.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
