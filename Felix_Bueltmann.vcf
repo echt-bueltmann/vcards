@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 15.5//EN
+N:Bültmann;Felix;;;
+FN:Felix Bültmann
+ORG:Bültmann GmbH;
+TITLE:Sales / Project Management
+EMAIL;type=INTERNET;type=WORK;type=pref:fb@bueltmann.com
+TEL;type=WORK;type=VOICE;type=pref:+49 2394 18259
+TEL;type=WORK;type=FAX:+49 2394 18-170
+TEL;type=CELL;type=VOICE:+49 172 4052393
+ADR;type=WORK;type=pref:;;Hönnestraße 31;Neuenrade;;58809;Germany
+item1.URL;type=pref:www.bueltmann.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
