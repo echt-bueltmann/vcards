@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 26.2//EN
+N:Rüth;Eva;;;
+FN:Eva Rüth
+ORG:Bültmann GmbH;
+TITLE:Sekretariat – Administrative Assistant
+EMAIL;type=INTERNET;type=WORK;type=pref:er@bueltmann.com
+TEL;type=WORK;type=VOICE;type=pref:+49 2394 18230
+ADR;type=WORK;type=pref:;;Hönnestraße 31;Neuenrade;;58809;Germany
+NOTE:\n 
+item1.URL;type=pref:www.bueltmann.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

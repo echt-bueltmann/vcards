@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 26.2//EN
+N:Hoffmann;Marvin;;;
+FN:Marvin Hoffmann
+ORG:Bültmann GmbH;
+TITLE:After Sales Service & Technical Support
+EMAIL;type=INTERNET;type=WORK;type=pref:mh@bueltmann.com
+TEL;type=WORK;type=VOICE;type=pref:+49 2394 18120
+ADR;type=WORK;type=pref:;;Hönnestraße 31;Neuenrade;;58809;Germany
+NOTE:\n 
+item1.URL;type=pref:www.bueltmann.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
