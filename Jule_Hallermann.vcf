@@ -6,12 +6,13 @@ ORG:BECK MASCHINENFABRIK GMBH
 TITLE:EINKAUF
 TEL;WORK;VOICE:+49 2394 18-103
 TEL;WORK;FAX:+49 2394 18-170
-ADR;WORK;PREF;CHARSET=Windows-1252:;;Hönnestraße  31;Neuenrade;;58809;Deutschland
+ADR;WORK;PREF;CHARSET=Windows-1252:;;Hönnestraße  31;Neuenrade;;58809;Germany
 LABEL;WORK;PREF;CHARSET=Windows-1252;ENCODING=QUOTED-PRINTABLE:H=F6nnestra=DFe  31=0D=0A=
-58809 Neuenrade
+58809 Neuenrade=0D=0A=
+Germany
 X-MS-OL-DEFAULT-POSTAL-ADDRESS:2
 URL;WORK:www.Beck-Maschinen.de
-EMAIL;PREF;INTERNET:jha@beck-maschinen.de
+EMAIL;PREF;INTERNET:jha@Beck-Maschinen.de
 PHOTO;TYPE=JPEG;ENCODING=BASE64:
  /9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAICAgICAQICAgIDAgIDAwYEAwMDAwcFBQQGCAcJ
  CAgHCAgJCg0LCQoMCggICw8LDA0ODg8OCQsQERAOEQ0ODg7/2wBDAQIDAwMDAwcEBAcOCQgJ
@@ -288,5 +289,5 @@ PHOTO;TYPE=JPEG;ENCODING=BASE64:
  oXB+502xNWeFy3EuspVaQ6+YYKdF8sz/2Q==
 
 X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="tleft" area="32" use="photo"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="org" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="title" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="telwork" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262">GeschÃ¤ftlich</label></fld><fld xmlns="" prop="email" align="left" dir="ltr" color="d48d2a" size="8"/><fld xmlns="" prop="addrwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="webwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
-REV:20260528T065148Z
+REV:20260528T065845Z
 END:VCARD
